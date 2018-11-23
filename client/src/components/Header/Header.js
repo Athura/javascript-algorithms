@@ -5,7 +5,7 @@ const Header = () => (
     <HeaderStyle>
         <div className="bar">
             <Logo>
-                <a href="/">Algorithms-R-Us</a>
+                <a href="/">Whiteboard</a>
             </Logo>
         </div>
     </HeaderStyle>

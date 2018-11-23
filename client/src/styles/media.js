@@ -1,8 +1,8 @@
 import { css } from 'styled-components';
 
 const sizes = {
-    desktop: 992,
-    tablet: 768,
+    desktop: 1300,
+    tablet: 900,
     phone: 576
 };
 // https://www.styled-components.com/docs/advanced#media-templates -- this was the inspiration for using this function; use wisely.
